@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("hot-fix");
 
         System.out.println("git push");
+        
+        System.out.println("web update the data");
     }
 }
