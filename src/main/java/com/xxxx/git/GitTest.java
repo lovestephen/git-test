@@ -7,12 +7,8 @@ package com.xxxx.git;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("Hello Git");
 
-        System.out.println("hot-fix");
-
-        System.out.println("git push");
-        
-        System.out.println("web update the data");
+        System.out.println("Version 2.0");
+        System.out.println("===============================");
     }
 }
